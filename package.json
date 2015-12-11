@@ -1,0 +1,23 @@
+{
+  "name": "ibex-logger",
+  "version": "1.0.1",
+  "description": "logger in ibex server",
+  "main": "index.js",
+  "repository": "alpjs/ibex-logger",
+  "keywords": [
+    "alp",
+    "ibex"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpjs/ibex-logger/issues"
+  },
+  "homepage": "https://github.com/alpjs/ibex-logger#readme",
+  "dependencies": {
+    "alp-logger": "^1.0.1"
+  },
+  "peerDependencies": {
+    "ibex-config": "^1.0.0"
+  }
+}
