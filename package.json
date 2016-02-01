@@ -1,6 +1,6 @@
 {
   "name": "ibex-logger",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "logger in ibex server",
   "main": "index.js",
   "repository": "alpjs/ibex-logger",
